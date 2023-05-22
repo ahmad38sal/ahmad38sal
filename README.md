@@ -7,9 +7,10 @@
   - [Hangman Game](https://github.com/ahmad38sal/hangman)
   
 <h2>Certifications<h2>
-   - [CompTIA Security+]
-   - [Google Project Managment]
-   - [Software Developer]
+  
+   - <b>CompTIA Security+</b>
+   - Google Project Managment
+   - Software Developer
 
 <h2> 🤳 Connect with me:</h2>
 
