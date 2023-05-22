@@ -3,19 +3,15 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [WorkJam or Third Party Schedule Scraper](https://github.com/ahmad38sal/ScheduleScraper)
+  - [Hangman Game](https://github.com/ahmad38sal/hangman)
   
 <h2>Certifications<h2>
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/ahmad  
-[youtube]: https://www.youtube.com/c/ahmad
 [linkedin]: https://linkedin.com/in/ahmad
 
 <!--
